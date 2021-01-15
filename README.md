@@ -1,7 +1,7 @@
 # An Analysis of Pewlett-Hackard
 
 ## Overview of Project
-The goal of this project is to utilze Kickstarter campaign data to help assist Louise reach her fundraising goal for her upcoming play "Fever." I am utilizing the avaiable Kickstarter campaign data to help Louise figure out how much she should ask for, what time of year she should ask for it, and how previous Kickstarter campaigns for plays have fared. 
+The overall goal of the project was to find how many employees are currently reaching the retirment age. The first part of the project was to determine how many currentl employees for each job title were about to retire. The second part of the project was to see how many current employees, who will be retiring soon, would be elligible for the mentorship progrsm. 
 
 ## Analsyis and Chanllenges: 
 ### Analysis of Outcomes Based on Launch Date
