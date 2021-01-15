@@ -11,6 +11,6 @@ The overall goal of the project was to find how many employees are currently rea
 
 
 ## Summary
-- There are going have to over 41,000 employees retiring with the upcoming "Silver Tsunami." With that being said there are over 1,900 qualified employees who can start mentoring the next generations. This would mean there would be about 1 mentor for every 21 employees. Based off of how Pewlett-Hackard's mentorship program works this could be enough people for the mentorship program. 
+- There are going to be over 41,000 employees retiring with the upcoming "Silver Tsunami." With that being said there are over 1,900 qualified employees who can start mentoring the next generations. This would mean there would be about 1 mentor for every 21 employees. Based off of how Pewlett-Hackard's mentorship program works this could be enough people for the mentorship program. 
 - One more query/table that I would run would be to see how many Senior Staff and Eingeneers are currently working at Pewlett-Hackard and are not set to retire anytime soon. This would be important to see because those are the two job titles with the most people retiring.
 - The last query/table I would run would be to look at previous data and see what the ratio of the mentors to employees typically is. If the previous mentor program had a similar ratio of 1 mentor for every 21 employees then the mentorship program should be fine with the "Silver Tsunami" coming. If the ratio is typically much smaller than Pewlett-Hackard may have to hire more people. 
